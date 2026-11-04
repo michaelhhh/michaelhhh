@@ -6,7 +6,7 @@ Melbourne, Australia · [LinkedIn](https://www.linkedin.com/in/ho-hsin-hsiang/)
 
 ## Projects
 
-- **[VisaReady 485](https://github.com/michaelhhh/VisaReady)**: an agent-based pre-lodgement checker for Australia's Subclass 485 visa. Rules decide eligibility; language models only draft letters for human approval.
+- **VisaReady 485** (private, demo on request): an agent-based pre-lodgement checker for Australia's Subclass 485 visa. Rules decide eligibility; language models only draft letters for human approval.
 - **[Climate fact-checking](https://github.com/LinLeo29/COMP90042-NLP-Group-Project)**: an NLP group project where I built the evidence retrieval stage.
 - **[Snowflake Cortex AISQL](https://github.com/michaelhhh/Snowflake-Cortex-AISQL)**: multimodal customer-service analytics on Snowflake Cortex with a Streamlit chat front end.
 
